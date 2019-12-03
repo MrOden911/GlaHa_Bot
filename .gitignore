@@ -108,3 +108,5 @@ venv.bak/
 # mine
 anytest.py
 .idea
+*.db.*
+anytest1.py
