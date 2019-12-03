@@ -183,6 +183,8 @@ class Gui:
         self.schedule_starter()
 
         self.status_changer()
+        self.start_bot_vk()
+        self.listen_to_events()
         self.window_main.mainloop()
 
     # БЛОК ДЕКОРАТОРОВ
